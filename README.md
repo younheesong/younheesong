@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
   <br/>
   <br/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 </div>
